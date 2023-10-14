@@ -1,0 +1,6 @@
+E:\fcis\3\Analysis & Design of Algorithms\Algo project\Algo project\bin\Debug\Algo project.exe.config
+E:\fcis\3\Analysis & Design of Algorithms\Algo project\Algo project\bin\Debug\Algo project.exe
+E:\fcis\3\Analysis & Design of Algorithms\Algo project\Algo project\bin\Debug\Algo project.pdb
+E:\fcis\3\Analysis & Design of Algorithms\Algo project\Algo project\obj\Debug\Algo project.csprojResolveAssemblyReference.cache
+E:\fcis\3\Analysis & Design of Algorithms\Algo project\Algo project\obj\Debug\Algo project.exe
+E:\fcis\3\Analysis & Design of Algorithms\Algo project\Algo project\obj\Debug\Algo project.pdb
